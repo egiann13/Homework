@@ -1,0 +1,8 @@
+public class MyProgram
+{
+public satic void main(String [] args)
+{
+System.out.println("please work");
+System.exit(0);
+}
+}
